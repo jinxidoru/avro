@@ -83,7 +83,7 @@ include(FetchContent)
 FetchContent_Declare(
         fmt
         GIT_REPOSITORY  https://github.com/fmtlib/fmt.git
-        GIT_TAG         05c4859
+        GIT_TAG         11.2.0
         GIT_PROGRESS    TRUE
         USES_TERMINAL_DOWNLOAD TRUE
 )
